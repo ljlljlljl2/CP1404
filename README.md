@@ -2,33 +2,15 @@
 
 Practical work for IT@JCU CP1404
 
-- [Practical 1](#practical-1)
-- [Practical 2](#practical-2)
-- [Practical 3](#practical-3)
-- [Practical 4](#practical-4)
-- [Practical 5](#practical-5)
-- [Practical 6](#practical-6)
-- [Practical 7](#practical-7)
-- [Practical 8](#practical-8)
-- [Practical 9](#practical-9)
-- [Practical 10](#practical-10)
+## Practicals
 
-## Practical 1
-
-## Practical 2
-
-## Practical 3
-
-## Practical 4
-
-## Practical 5
-
-## Practical 6
-
-## Practical 7
-
-## Practical 8
-
-## Practical 9
-
-## Practical 10
+- [Practical 1](./prac_01/)
+- [Practical 2](./prac_02/)
+- [Practical 3](./prac_03/)
+- [Practical 4](./prac_04/)
+- [Practical 5](./prac_05/)
+- [Practical 6](./prac_06/)
+- [Practical 7](./prac_07/)
+- [Practical 8](./prac_08/)
+- [Practical 9](./prac_09/)
+- [Practical 10](./prac_10/)
