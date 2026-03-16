@@ -1,5 +1,4 @@
 # Practical 02
-# Practical 02
 # CP1404 Practical 02
 
 ## Files included
